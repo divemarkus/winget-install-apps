@@ -92,5 +92,5 @@ winget uninstall --id VLC.VLC --silent --accept-package-agreements
 * PowerShell 5.0+
 
 ### More information
-Check it out...
+* [Check it out...](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 
